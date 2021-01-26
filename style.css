@@ -1,0 +1,47 @@
+body {
+    background: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.calc {
+    width: 330px;
+    margin: 100px auto;
+    padding: 10px 15px 40px 15px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px 0px #898989;
+    background: rgb(58, 169, 243);
+    
+}
+
+.num {
+    width: 300px;
+    margin: 5px;
+    border: none;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.operate {
+    width: 245px;
+    margin: 5px;
+    border: none;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn {
+    background: #191d1a;
+    color: #ffffff;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+
+.title {
+    text-align: center;
+    color: beige;
+    font-weight: normal;
+}
