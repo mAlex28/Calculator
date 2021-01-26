@@ -1,2 +1,2 @@
-# calculator
-calculator using php and css
+# Calculator
+A Calculator using php and css
